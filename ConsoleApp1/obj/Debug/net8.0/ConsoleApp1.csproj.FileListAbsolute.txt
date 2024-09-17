@@ -12,3 +12,4 @@
 /home/shestakovae/Documents/project/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
 /home/shestakovae/Documents/project/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
 /home/shestakovae/Documents/project/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
+/home/shestakovae/Documents/project/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.sourcelink.json

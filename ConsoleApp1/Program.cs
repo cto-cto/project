@@ -1,4 +1,5 @@
 ﻿using System;
+using ConsoleApp1;
 
 namespace Console12
 {
@@ -8,6 +9,7 @@ namespace Console12
         {
             Console.WriteLine("Hello");
             Console.WriteLine("Hello, World");
+            Class1.PrintGoodbay();
         }
         
     }
